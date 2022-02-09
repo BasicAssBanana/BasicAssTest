@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x445742117f8b36211b70e5A5267F48f4D8985DB1",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x445742117f8b36211b70e5a5267f48f4d8985db1",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Basic Ass Bananas Test",
+  "SYMBOL": "BABT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
